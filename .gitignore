@@ -54,3 +54,10 @@ buck-out/
 
 # Bundle artifact
 *.jsbundle
+
+android/
+bin/
+ios/
+__tests__/
+node_modules/*
+node_modules
