@@ -60,4 +60,4 @@ bin/
 ios/
 __tests__/
 node_modules/*
-node_modules
+
